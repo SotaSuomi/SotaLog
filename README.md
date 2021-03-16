@@ -1,0 +1,2 @@
+# SotaLog
+(fivem) Powerful logs!
