@@ -1,2 +1,2 @@
 # SotaLog
-(fivem) Powerful logs!
+(fivem) Powerful logs for ESX server!
